@@ -1,5 +1,11 @@
 Distribuição: Ubuntu Server 16 (Xenial)
+
 Quantidade de memória: 512 MB
+
+Configuração de rede no VirtualBox:
+
+Adaptador 1: NAT
+Adaptador 2: host-only (172.16.1.1)
 
 Arquivos:
 

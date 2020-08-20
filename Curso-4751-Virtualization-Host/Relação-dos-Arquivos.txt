@@ -1,5 +1,10 @@
 Distribuição: CentOS 7 com interface gráfica
+
 Quantidade de memória: 4096 MB
+
+Configuração de rede no VirtualBox:
+
+Adaptador 1: host-only (172.16.1.1)
 
 Arquivos:
 
