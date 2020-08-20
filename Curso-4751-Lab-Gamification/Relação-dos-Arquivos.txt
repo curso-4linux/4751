@@ -28,6 +28,8 @@ Arquivos:
 /usr/sbin/lab08-selinux -> permissão 755
 /usr/sbin/lab09-raid-lvm -> permissão 755
 /usr/sbin/lab10-cifs-nfs -> permissão 755
+/usr/sbin/limpar-lab -> permissão 755
+
 /etc/sysconfig/selinux
 
 Deixar o Firewalld desativado
